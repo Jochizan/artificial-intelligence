@@ -1,0 +1,31 @@
+# binaries files
+*.exe
+*.tar.gz
+
+# config files
+*.iml
+*.xml
+*.idea
+
+# data files
+*.bin
+*.csv
+*.zip
+*.rar
+*.data
+
+# models
+*.h5
+*.tflite
+
+# cache notebooks
+.ipynb_checkpoints
+
+# special notebooks
+first_version.ipynb
+preparing_dataset.ipynb
+deep_learning
+
+# dependencies pip
+venv
+packages

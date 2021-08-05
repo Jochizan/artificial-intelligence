@@ -1,0 +1,7 @@
+Tiene pelo?, Toma leche?, Vuela?, Pone huevos?, Tiene plumas?, Nada?, Salida
+1,1,0,0,0,0,1
+0,1,1,0,0,0,1
+0,1,0,0,0,1,1
+0,0,1,1,1,1,0
+0,0,1,1,1,0,0
+0,0,0,1,1,0,0
